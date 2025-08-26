@@ -1,36 +1,111 @@
-# Hey 👋, I'm Nihmath Jabir  
+# <div align="center"> Hey 👋</div>  
 
-🎓 Third-year **Information Systems undergraduate** at the University of Colombo School of Computing (UCSC).  
-
----
-
-## 🛠️ Skills  
-
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-
-**Frontend Development:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-**Backend Development:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Tools & APIs:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)  
- 
----
-
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihmath-jabir-702923285)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jabir0331)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnnjabir@gmail.com)  
+### <div align="center">I'm an Information Systems Undergraduate at UCSC</div>  
 
 ---
 
-## 📊 GitHub Stats  
-![Nihmath's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabir0331&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabir0331&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=jabir0331&theme=radical)  
+## 💻 Skills:
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-F78C40?style=for-the-badge&logo=openjdk&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white)  
+
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Google Maps](https://img.shields.io/badge/google_maps_api-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)  
+![Stripe](https://img.shields.io/badge/stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)  
+
+</div>  
+
+---
+
+## 🚀 Projects:
+<div align="left">
+
+### 🍴 Cinnamon Leaf – MERN Stack Online Food Ordering  
+- Built a responsive **full-stack food ordering web app** with React (TypeScript), Node.js, Express.js, and MongoDB.  
+- Implemented **JWT authentication**, cart, checkout, and **Stripe payments**.  
+- Added order history, tracking, and management system.  
+
+---
+
+### 🌍 ExploreLK – Smart Tour Planning Web Application  
+- Collaborated in a **4-member team** using SDLC and Git.  
+- Developed a **custom PHP MVC framework** for scalability.  
+- Features: **hotel booking, group trip collaboration, event ticketing, secure payments, Google Maps navigation**.  
+- Produced **SRS, use case, activity, class & ER diagrams**.  
+
+---
+
+### 📚 Mini Library – JavaFX Library Management System  
+- Desktop app with **book/member management, issue/return tracking, and fines**.  
+- Designed with **OOP principles** and built a clean UI with Scene Builder.  
+
+</div>  
+
+---
+
+## 📜 Certifications:
+- Backend Development and APIs – freeCodeCamp (2025)  
+- Introduction to Node.js – Simplilearn (2025)  
+- Introduction to React – Simplilearn (2025)  
+- JavaScript Basics – HackerRank (2025)  
+- Java Basics – HackerRank (2024)  
+
+---
+
+## 🏆 Achievements:
+- 🎖️ Director’s List – UCSC (1st Year, 1st Semester)  
+
+---
+
+## 🌐 Socials: 
+<div align="center">
+
+<a href="https://linkedin.com/in/nihmath-jabir-702923285" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/jabir0331" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:mnnjabir@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+
+</div>  
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabir0331&theme=moonlight)  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jabir0331&theme=moonlight)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jabir0331&theme=moonlight&utcOffset=5.5)  
+
+![](https://github-readme-stats.vercel.app/api?username=jabir0331&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=jabir0331&theme=radical&hide_border=false)  
+
+**Thanks for visiting my profile!** ✨  
+
+</div>  
