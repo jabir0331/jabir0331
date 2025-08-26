@@ -16,46 +16,6 @@
 
 ---
 
-## 🚀 Projects:
-<div align="left">
-
-### 🍴 Cinnamon Leaf – MERN Stack Online Food Ordering  
-- Built a responsive **full-stack food ordering web app** with React (TypeScript), Node.js, Express.js, and MongoDB.  
-- Implemented **JWT authentication**, cart, checkout, and **Stripe payments**.  
-- Added order history, tracking, and management system.  
-
----
-
-### 🌍 ExploreLK – Smart Tour Planning Web Application  
-- Collaborated in a **4-member team** using SDLC and Git.  
-- Developed a **custom PHP MVC framework** for scalability.  
-- Features: **hotel booking, group trip collaboration, event ticketing, secure payments, Google Maps navigation**.  
-- Produced **SRS, use case, activity, class & ER diagrams**.  
-
----
-
-### 📚 Mini Library – JavaFX Library Management System  
-- Desktop app with **book/member management, issue/return tracking, and fines**.  
-- Designed with **OOP principles** and built a clean UI with Scene Builder.  
-
-</div>  
-
----
-
-## 📜 Certifications:
-- Backend Development and APIs – freeCodeCamp (2025)  
-- Introduction to Node.js – Simplilearn (2025)  
-- Introduction to React – Simplilearn (2025)  
-- JavaScript Basics – HackerRank (2025)  
-- Java Basics – HackerRank (2024)  
-
----
-
-## 🏆 Achievements:
-- 🎖️ Director’s List – UCSC (1st Year, 1st Semester)  
-
----
-
 ## 🌐 Socials: 
 <div align="center">
 
