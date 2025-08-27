@@ -7,56 +7,11 @@
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-F78C40?style=for-the-badge&logo=openjdk&logoColor=white)  ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white)  [![Next.js](https://img.shields.io/badge/next.js-404D59.svg?style=for-the-badge&logo=next&logoColor=white)](https://nextjs.org/)
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Google Maps](https://img.shields.io/badge/google_maps_api-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)  ![Stripe](https://img.shields.io/badge/stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Stripe](https://img.shields.io/badge/stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)  
 
 </div>  
-
----
-
-## 🚀 Projects:
-<div align="left">
-
-### 🍴 Cinnamon Leaf – MERN Stack Online Food Ordering  
-- Built a responsive **full-stack food ordering web app** with React (TypeScript), Node.js, Express.js, and MongoDB.  
-- Implemented **JWT authentication**, cart, checkout, and **Stripe payments**.  
-- Added order history, tracking, and management system.  
-
----
-
-### 🌍 ExploreLK – Smart Tour Planning Web Application  
-- Collaborated in a **4-member team** using SDLC and Git.  
-- Developed a **custom PHP MVC framework** for scalability.  
-- Features: **hotel booking, group trip collaboration, event ticketing, secure payments, Google Maps navigation**.  
-- Produced **SRS, use case, activity, class & ER diagrams**.  
-
----
-
-### 📚 Mini Library – JavaFX Library Management System  
-- Desktop app with **book/member management, issue/return tracking, and fines**.  
-- Designed with **OOP principles** and built a clean UI with Scene Builder.  
-
-</div>  
-
----
-
-## 📜 Certifications:
-- Backend Development and APIs – freeCodeCamp (2025)  
-- Introduction to Node.js – Simplilearn (2025)  
-- Introduction to React – Simplilearn (2025)  
-- JavaScript Basics – HackerRank (2025)  
-- Java Basics – HackerRank (2024)  
-
----
-
-## 🏆 Achievements:
-- 🎖️ Director’s List – UCSC (1st Year, 1st Semester)  
 
 ---
 
@@ -82,13 +37,10 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabir0331&theme=moonlight)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jabir0331&theme=moonlight)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jabir0331&theme=moonlight&utcOffset=5.5)  
-
-![](https://github-readme-stats.vercel.app/api?username=jabir0331&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jabir0331&theme=radical&hide_border=false)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jabir0331&theme=moonlight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jabir0331&theme=moonlight&utcOffset=5.5)  
 
 **Thanks for visiting my profile!** ✨  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 </div>  
