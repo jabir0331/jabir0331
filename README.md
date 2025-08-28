@@ -38,8 +38,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabir0331&theme=moonlight)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jabir0331&theme=moonlight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jabir0331&theme=moonlight&utcOffset=5.5)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jabir0331&theme=moonlight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jabir0331&theme=moonlight)
+
 
 
 
