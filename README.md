@@ -4,7 +4,7 @@
 
 </div>
 
-# <div align="center"> Hii!</div>  
+# <div align="center"> Hello ][</div>  
 
 ### <div align="center">I'm an Information Systems Undergraduate at UCSC</div>  
 
